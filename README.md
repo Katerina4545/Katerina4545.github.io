@@ -12,6 +12,7 @@ About project:
 5) The layout was made in figma. A grid was used for bootstrap.
 
 Disadvantages of landing page:
+
 Sections overlap with each other when the width is less than 1000, 
 and the problem was not solved. Testing was performed in the chrome 
 browser, and overlays are also performed in other browsers.
